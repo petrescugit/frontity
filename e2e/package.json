@@ -41,6 +41,6 @@
     "wdio-chromedriver-service": "^7.0.0"
   },
   "dependencies": {
-    "browserstack-local": "^1.4.8"
+    "browserstack-local": "^1.5.3"
   }
 }
