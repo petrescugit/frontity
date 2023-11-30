@@ -72,10 +72,10 @@
     "react-helmet-async": "1.0.9",
     "regenerator-runtime": "^0.13.7",
     "require-from-string": "^2.0.2",
-    "symlink-dir": "4.1.0",
+    "symlink-dir": "5.0.0",
     "ts-node": "^9.1.1",
     "url-loader": "^4.1.1",
-    "webpack": "^4.44.2",
+    "webpack": "^5.1.1",
     "webpack-bundle-analyzer": "^4.2.0",
     "webpack-dev-middleware": "^3.7.3",
     "webpack-hot-middleware": "^2.25.0"
