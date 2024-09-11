@@ -24,7 +24,7 @@
     "@frontity/source": "^1.5.1",
     "frontity": "^1.17.1",
     "normalizr": "^3.3.0",
-    "path-to-regexp": "^3.0.0",
+    "path-to-regexp": "^8.0.0",
     "query-string": "^6.8.3"
   },
   "devDependencies": {
